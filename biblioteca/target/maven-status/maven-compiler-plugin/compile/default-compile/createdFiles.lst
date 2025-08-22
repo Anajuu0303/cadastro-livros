@@ -1,0 +1,4 @@
+com/techplus/springApp.class
+com/techplus/model/Livro.class
+com/techplus/repository/LivroRepository.class
+com/techplus/controller/LivroController.class
